@@ -1,0 +1,11 @@
+Content-Type: text/plain
+To: foo@bar.com
+Subject: Test Email
+X-Mailer: nodemailer (1.3.0; +http://www.nodemailer.com;
+ SMTP/0.1.13[client:1.0.2])
+Content-Transfer-Encoding: 7bit
+Date: Tue, 28 Oct 2014 11:10:29 +0000
+Message-Id: <1414494629755-30de9e90-9de71572-677ea119@localhost>
+MIME-Version: 1.0
+
+Hello sandeep this is a test email sent with phone no:5676678978
