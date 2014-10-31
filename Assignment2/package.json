@@ -1,0 +1,16 @@
+{
+  "name": "Assignment2",
+  "version": "0.0.0",
+  "description": "Library system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pradnya",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "oriento": "~0.5.1",
+    "express": "~4.10.1",
+    "body-parser": "~1.9.2"
+  }
+}
